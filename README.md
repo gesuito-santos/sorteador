@@ -1,7 +1,7 @@
 
 <div align = "center">
   <h1>SORTEADOR</h1>
-  <img src = "https://github.com/gesuito-santos/sorteador/blob/main/assets/Sorteador%20mockup.png"/>
+  <img src = "https://github.com/gesuito-santos/sorteador/blob/main/assets/responsive-mockup-sorteador.png"/>
 </div>
 <br>
 
